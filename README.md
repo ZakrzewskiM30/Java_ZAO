@@ -11,3 +11,9 @@
 | Termin oddania | Punkty     |
 |----------------|:-----------|
 |    15.11.2024 23:59  |   10        |
+
+## Zadanie Koszyk
+[Treść zadania](https://github.com/ZakrzewskiM30/Java_Koszyk)
+| Termin oddania | Punkty     |
+|----------------|:-----------|
+|    13.12.2024 23:59  |   15        |
