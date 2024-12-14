@@ -17,3 +17,13 @@
 | Termin oddania | Punkty     |
 |----------------|:-----------|
 |    13.12.2024 23:59  |   15        |
+
+## Zadanie Gry wojenne
+[Treść zadania](https://github.com/ZakrzewskiM30/Java_Gry_wojenne)
+| Termin oddania | Punkty     |
+|----------------|:-----------|
+|    17.01.2025 23:59  |   20        |
+
+| Ostateczny termin | Punkty     |
+|----------------|:-----------|
+|    18.01.2025 10:30  |   10       |
